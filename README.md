@@ -1,1 +1,1 @@
-““安”; o                ho "auto read script" 
+#安卓app自动阅读脚本
